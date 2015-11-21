@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/startmenu.unity
+  - enabled: 1
+    path: Assets/village.unity
+  - enabled: 1
+    path: Assets/waterfall.unity
